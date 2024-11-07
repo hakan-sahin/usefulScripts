@@ -1,0 +1,1 @@
+﻿netsh wlan add profile filename="C:\tmo\WLANNETWORK.xml"

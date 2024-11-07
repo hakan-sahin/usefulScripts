@@ -1,0 +1,1 @@
+﻿netsh wlan export profile name="NAME" folder="C:\tmp\" key=clear
